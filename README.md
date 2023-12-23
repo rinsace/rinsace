@@ -1,8 +1,7 @@
--  Hi, I’m @rinsace
--  I’m interested in pyhton, and cats!
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  How to reach me rinsaces@gmail.com
+-  hellooo, i'm @rinsace / tia <3
+-  i looooveee webtoons, animes and caattsss!!
+-  I’m currently learning java and python!!
+-  reach me here! rinsaces@gmail.com
 
 <!---
 rinsace/rinsace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
